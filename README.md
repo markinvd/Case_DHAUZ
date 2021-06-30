@@ -1,2 +1,3 @@
 # Case_DHAUZ
-Repo para o case
+As respostas para o case se encontram no .ipynb
+
